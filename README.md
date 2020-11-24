@@ -6,7 +6,6 @@ Oh! I haven't introduced myself...
 
 I'll introduce myself as well my name is Riley Hays.
 
-
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
